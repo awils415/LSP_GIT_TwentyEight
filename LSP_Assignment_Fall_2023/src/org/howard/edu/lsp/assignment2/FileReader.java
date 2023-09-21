@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class FileReader {
 	public FileReader() {
-		System.out.println("My constructor");
+//		System.out.println("My constructor");
 	}
 	public String readToString(String resource) throws FileNotFoundException {
 		// TODO Auto-generated method stub
