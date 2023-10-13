@@ -29,15 +29,15 @@ public class Driver {
 		IntegerSet testSetB = new IntegerSet();
 		
 		// Adding 4, 5, 3 to set
-		System.out.println("Adding 4 to testSetB..." + testSetB.toString());
+		System.out.println("Adding 4 to testSetB...");
 		testSetB.add(4);
 		System.out.println("Result: " + testSetB.toString() + "\n");
 
-		System.out.println("Adding 5 to testSetB... " + testSetB.toString());
+		System.out.println("Adding 5 to testSetB... ");
 		testSetB.add(5);
 		System.out.println("Result: " + testSetB.toString() + "\n");
 		
-		System.out.println("Adding 3 to testSetB... " + testSetB.toString());
+		System.out.println("Adding 3 to testSetB... ");
 		testSetB.add(3);
 		System.out.println("Result: " + testSetB.toString() + "\n");
 		
